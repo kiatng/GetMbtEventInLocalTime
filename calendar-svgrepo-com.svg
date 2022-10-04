@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 310 310"
+	width="310"
+  	height="310">
+	<g id="m1003_">
+		<g id="m1004_">
+			<rect id="m1005_" x="15" y="50" style="fill:#78B9EB;" width="280" height="260" />
+			<rect id="m1006_" x="15" y="29.998" style="fill:#0052B4;" width="140" height="70" />
+			<rect id="m1007_" x="155" y="29.998" style="fill:#006DF0;" width="140" height="70" />
+			<g id="m1008_">
+				<rect id="m1009_" x="65" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+				<rect id="m1010_" x="165" y="190" style="fill:#006DF0;" width="30" height="30" />
+				<rect id="m1011_" x="115" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+				<rect id="m1012_" x="215" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+			</g>
+			<rect id="m58_" x="215" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m57_" x="115" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m56_" x="165" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m55_" x="65" y="130" style="fill:#006DF0;" width="30" height="30" />
+			<rect id="m54_" x="215" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m53_" x="115" y="250" style="fill:#006DF0;" width="30" height="30" />
+			<rect id="m52_" x="165" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m51_" x="65" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+			<rect id="m50_" x="215.001" style="fill:#003778;" width="30" height="60" />
+			<rect id="m49_" x="65.002" style="fill:#003778;" width="30" height="60" />
+		</g>
+		<rect id="m1013_" x="15" y="50" style="fill:#78B9EB;" width="280" height="260" />
+		<rect id="m1014_" x="15" y="29.998" style="fill:#0052B4;" width="140" height="70" />
+		<rect id="m1015_" x="155" y="29.998" style="fill:#006DF0;" width="140" height="70" />
+		<rect id="m1016_" x="65" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m1017_" x="165" y="190" style="fill:#FFDA44;" width="30" height="30" />
+		<rect id="m1018_" x="115" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m1019_" x="215" y="190" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m40_" x="215" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m39_" x="115" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m38_" x="165" y="130" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m37_" x="65" y="130" style="fill:#FFDA44;" width="30" height="30" />
+		<rect id="m36_" x="215" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m35_" x="115" y="250" style="fill:#FFDA44;" width="30" height="30" />
+		<rect id="m34_" x="165" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m33_" x="65" y="250" style="fill:#FFFFFF;" width="30" height="30" />
+		<rect id="m32_" x="215.001" style="fill:#003778;" width="30" height="60" />
+		<rect id="m3_" x="65.002" style="fill:#003778;" width="30" height="60" />
+	</g>
+</svg>
